@@ -47,6 +47,6 @@ MY TOPOLOGY
 
 MY SCENARIO 
 Nathaniel Jarme Inc. is a customer service outsourcing company that handles technical support, customer retention, and sales on behalf of multiple clients. With over 150 employees working across various departments including IT, Finance, HR, Support, Sales, Marketing, Administration, and Servers the company operates from a central office equipped with a robust local area network (LAN)
-![image](https://github.com/user-attachments/assets/ba1fc9b7-9940-4842-abad-367c467860e6)
+
 
 
