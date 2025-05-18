@@ -1,4 +1,5 @@
 📡 Cisco Network Infrastructure Project
+
 We create a project that showcases a comprehensive Cisco Packet Tracer network simulation designed to model a secure, scalable, and manageable enterprise network. It includes multiple core networking concepts and technologies covered in Cisco CCNA 4 (Enterprise Networking, Security, and Automation).
 
 VLANs and Inter-VLAN Routing:
